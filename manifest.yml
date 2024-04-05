@@ -9,4 +9,4 @@ applications:
     JBP_CONFIG_SAP_MACHINE_JRE: '{ jre: { version: "11.+" } }'
     SERVICE_LABEL: "objectstore"
   services:
-    - sm
+    - cms

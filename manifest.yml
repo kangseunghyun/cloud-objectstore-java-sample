@@ -1,6 +1,6 @@
 ---
 applications:
-- name: fd1b9645-02ab-4a3d-9fc8-6fe69fec0d08-objectstore-sample-svc
+- name: helpme
   memory: 2G
   buildpack: sap_java_buildpack
   path: target/objectstore-sample-1.1.1.jar
